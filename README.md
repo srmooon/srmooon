@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[COLE_O_LINK_DO_SEU_BANNER_AQUI](https://raw.githubusercontent.com/srmooon/srmooon/refs/heads/main/df3b17ab4a44ebe76ce29b257b197896.webp)" alt="SrMoon Banner"/>
+  <img src="https://raw.githubusercontent.com/srmooon/srmooon/refs/heads/main/df3b17ab4a44ebe76ce29b257b197896.webp" alt="SrMoon Banner"/>
 </p>
 
 <p align="right">
